@@ -9,3 +9,4 @@ With that, I wish every disicple of Qiskit good luck on the exam!
 # Contact
 Please feel free to contact me for any feedback.
 | [LinkedIn](https://www.linkedin.com/in/bartu-bisgin-49a7b012a/)  | [Qiskit Slack: Bartu Bisgin](https://qiskit.slack.com/?redir=%2Fmessages%2FC7SN3T90V) |
+| ------------- | ------------- |
