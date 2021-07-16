@@ -5,3 +5,7 @@ While following the guide, I wanted to re-create examples from all specified top
 
 I'd like to thank James Weaver and Saul Sarango for their invaluable feedback on the workbook and their encouraging words for making this public!
 With that, I wish every disicple of Qiskit good luck on the exam!
+
+# Contact
+Please feel free to contact me for any feedback.
+| [LinkedIn](https://www.linkedin.com/in/bartu-bisgin-49a7b012a/)  | [Qiskit Slack: Bartu Bisgin](https://qiskit.slack.com/?redir=%2Fmessages%2FC7SN3T90V) |
