@@ -7,6 +7,6 @@ I'd like to thank James Weaver and Saul Sarango for their invaluable feedback on
 With that, I wish every disicple of Qiskit good luck on the exam!
 
 # Contact
-Feel free to contact me for any feedback.
+Feel free to contact me for any feedback:
 | [LinkedIn](https://www.linkedin.com/in/bartu-bisgin-49a7b012a/)  | [Qiskit Slack](https://qiskit.slack.com/?redir=%2Fmessages%2FC7SN3T90V) |
 | ------------- | ------------- |
